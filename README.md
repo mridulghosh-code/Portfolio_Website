@@ -12,11 +12,12 @@ Manage Educational Attainment Details
 Manage Work Experience Details
 Manage Projects Completed
 Manage Contacts
-How to Run
-Requirements
-Download and Install any local web server such as XAMPP/WAMP.
-Download the provided source code zip file. 
 
+Requirements
+1. Download and Install any local web server such as XAMPP/WAMP.
+2. Download the provided source code zip file.
+
+How to Run
 1. Open your XAMPP/WAMP's Control Panel and start the "Apache" and "MySQL".
 2. Extract the downloaded source code file.
 3. If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. If you are using WAMP, paste it into the "www" directory.
