@@ -27,5 +27,5 @@ How to Run
 7. Browse the Simple Portfolio Website Creator in a browser. i.e. http://localhost/portfolio for the website and http://localhost/portfolio/admin for the admin panel
 
 Admin Access Information
-Username: admin
-Password: admin123
+# Username: admin
+# Password: admin123
